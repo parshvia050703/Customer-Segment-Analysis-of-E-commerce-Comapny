@@ -42,5 +42,3 @@ Clustering Model - Customer segmentation using ML
 
 Visualizations - Graphical representation of insights
 
-Visualizations:
-
